@@ -1,7 +1,6 @@
-# Full Name 
+# Sumithra K
 
-### About Me
-
+### Currently pursuing Bachelor of Technology degree in Information Technology at Government Engineering College Sreekrishnapuram .Software enthusiast with a strong academic record and a passion for developing innovative software solution.
 > write about your self .................. (minimum 200 Characters)
 
 
